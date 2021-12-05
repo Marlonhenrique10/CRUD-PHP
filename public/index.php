@@ -17,7 +17,6 @@ $db = new DataBase;
     <link rel="stylesheet" href="<?= URL ?>/public/css/estilos.css">    
 </head>
 <body>
-    <!-- teste do git  -->
     <?php 
         include '../app/Views/topo.php';
         $rotas = new Rota();        
